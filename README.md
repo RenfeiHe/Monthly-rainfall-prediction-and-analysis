@@ -8,11 +8,11 @@ This project is for making a multi-step monthly rainfall prediction and discover
 
 This repository contains two folders: one is for Darwin, and the other is for Perth. The code in the two folders is basically the same, but the original data and result files are different. Users can choose a folder in any city to download.
 
-The .ipynb file in the folder contains all the code for model construction, training, prediction, and interpretation. Users need to open this file using Jupyter Notebook in the Python 3 development environment.
+The .ipynb file in each city's folder contains all the code for model construction, training, prediction, and interpretation. Users need to open this file using Jupyter Notebook in the Python 3 development environment.
 
-The folder also contains a CSV file, which contains the 6 monthly weather factors and 7 monthly climate indicators in 1200 months from Jan 1921 to Dec 2020 that we downloaded from the SILO database and the Royal Netherlands Metrological Institute Climate Explorer.
+Each city's folder also contains a .csv file, which contains the 6 monthly weather factors and 7 monthly climate indicators in 1200 months from Jan 1921 to Dec 2020 that we downloaded from the SILO database and the Royal Netherlands Metrological Institute Climate Explorer.
 
-In addition, there are two sub folders: Prediction and Explanations. The Prediction folder is used to save the prediction results of the model, while the Explanations folder is used to save the results of model explanation.
+In addition, there are two sub folders in each city's folder: Prediction and Explanations. The Prediction folder is used to save the prediction results of the model, while the Explanations folder is used to save the results of model explanation.
 
 ## Maintainers
 @RenfeiHe
