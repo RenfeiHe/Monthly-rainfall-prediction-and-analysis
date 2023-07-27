@@ -15,4 +15,4 @@ Each city's folder also contains a .csv file, which contains the 6 monthly weath
 In addition, there are two sub folders in each city's folder: Prediction and Explanations. The Prediction folder is used to save the prediction results of the model, while the Explanations folder is used to save the results of model explanation.
 
 ## Maintainers
-@RenfeiHe
+[@RenfeiHe](https://github.com/RenfeiHe)
